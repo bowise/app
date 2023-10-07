@@ -15,9 +15,9 @@ The words of which the initial letter is capitalized have meanings defined under
 
 For the purposes of these Terms and Conditions:
 
-Application means the software program provided by Us and downloaded by You on any electronic device, named BoWise
+Application means the software program provided by Us and downloaded by You on any electronic device, named OUTPUTS
 
-We (referred to as either "We", "Us" or "Our" in this Agreement) refers to BoWise.
+We (referred to as either "We", "Us" or "Our" in this Agreement) refers to OUTPUTS.
 
 Service refers to the Application and all related services, features and content provided by US within the Application, on the website or social media channels.
 
