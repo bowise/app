@@ -1,4 +1,4 @@
-# BoWise
+# OUTPUTS
 a minimalistic mobile app for keeping track of digestive health in a simple and easy way. Say goodbye to complex time-consuming tracking methods and meet the one-button app. No more hassle of entering detailed information or navigating through multiple screens. 
 
 We understand that maintaining a healthy digestive system is essential for overall well-being, and that's why we created this tool to assist you in monitoring your bowel movements. 
@@ -20,4 +20,4 @@ Whether you're monitoring for medical reasons, tracking dietary changes, or curi
 
 Stay tuned for more. The following versions of the app will allow you to track and see more information, get insights, and professional advice.
 
-<b>Note:</b> BoWise is not a substitute for professional medical advice. Always consult with a healthcare professional for any concerns related to your digestive health.
+<b>Note:</b> OUTPUTS is not a substitute for professional medical advice. Always consult with a healthcare professional for any concerns related to your digestive health.
