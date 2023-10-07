@@ -15,9 +15,9 @@ The words of which the initial letter is capitalized have meanings defined under
 
 For the purposes of this Privacy Policy:
 
-Application refers to BoWise, the software program provided by the Company.
+Application refers to OUTPUTS, the software program provided by the Company.
 
-We (referred to as either "We", "Us" or "Our" in this Agreement) refers to BoWise.
+We (referred to as either "We", "Us" or "Our" in this Agreement) refers to OUTPUTS.
 
 Service refers to the Application.
 
