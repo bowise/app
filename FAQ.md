@@ -1,9 +1,9 @@
 # FAQ
-## How to use BoWise?
+## How to use OUTPUTS?
 
-BoWise can help you with an easy log of your bowel movements. The triangle button on the main screen is all you need to start tracking. Slide the button when you've completed a bowel movement and the app will automatically log the time and date, no need to enter any additional information or scroll through menus. Slide the button UP when everything was ok, slide it DOWN to indicate a stool problem. 
+OUTPUTS can help you with an easy log of your bowel movements. The triangle button on the main screen is all you need to start tracking. Slide the button when you've completed a bowel movement and the app will automatically log the time and date, no need to enter any additional information or scroll through menus. Slide the button UP when everything was ok, slide it DOWN to indicate a stool problem. 
 
-BoWise sums up your logs and shows them on the Calendar and Statistics pages, enabling you to identify patterns or irregularities in your digestive health over time and making it easier to discuss any concerns with healthcare professionals if necessary. 
+OUTPUTS sums up your logs and shows them on the Calendar and Statistics pages, enabling you to identify patterns or irregularities in your digestive health over time and making it easier to discuss any concerns with healthcare professionals if necessary. 
 
 
 
